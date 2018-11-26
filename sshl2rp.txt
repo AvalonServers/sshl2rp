@@ -1,0 +1,18 @@
+"sshl2rp"
+{
+  "base" "darkrp"
+  "title" "Semi-Serious HL2RP"
+  "version" "1.0.1"
+  "maps" "^rp_"
+  "menusystem" "1"
+  "workshopid" "924706604"
+
+  "author_name" "TOWER"
+  "author_email" "support@towerdevs.xyz"
+  "author_url" "https://towerdevs.xyz"
+
+  "settings"
+  {
+
+  }
+}
